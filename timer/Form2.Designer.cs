@@ -39,10 +39,10 @@
             // 
             this.labelPromptString.AutoSize = true;
             this.labelPromptString.Font = new System.Drawing.Font("Cambria", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelPromptString.ForeColor = System.Drawing.Color.White;
-            this.labelPromptString.Location = new System.Drawing.Point(12, 9);
+            this.labelPromptString.ForeColor = System.Drawing.Color.Red;
+            this.labelPromptString.Location = new System.Drawing.Point(14, 11);
             this.labelPromptString.Name = "labelPromptString";
-            this.labelPromptString.Size = new System.Drawing.Size(189, 70);
+            this.labelPromptString.Size = new System.Drawing.Size(226, 84);
             this.labelPromptString.TabIndex = 2;
             this.labelPromptString.Text = "Time:";
             // 
@@ -50,10 +50,10 @@
             // 
             this.labelTime.AutoSize = true;
             this.labelTime.Font = new System.Drawing.Font("Square721 BT", 43.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelTime.ForeColor = System.Drawing.Color.White;
-            this.labelTime.Location = new System.Drawing.Point(179, 4);
+            this.labelTime.ForeColor = System.Drawing.Color.Red;
+            this.labelTime.Location = new System.Drawing.Point(214, 5);
             this.labelTime.Name = "labelTime";
-            this.labelTime.Size = new System.Drawing.Size(390, 89);
+            this.labelTime.Size = new System.Drawing.Size(467, 108);
             this.labelTime.TabIndex = 3;
             this.labelTime.Text = "00:00:00";
             // 
@@ -70,12 +70,13 @@
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(590, 94);
+            this.ClientSize = new System.Drawing.Size(694, 113);
             this.Controls.Add(this.labelPromptString);
             this.Controls.Add(this.labelTime);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form2";
             this.ShowInTaskbar = false;
             this.Text = "Form2";

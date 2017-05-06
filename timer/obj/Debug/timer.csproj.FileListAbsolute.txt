@@ -18,3 +18,13 @@ C:\Users\WU\Documents\Visual Studio 2012\Projects\timer20170306\timer\obj\Debug\
 C:\Users\WU\Documents\Visual Studio 2012\Projects\timer20170306\timer\obj\Debug\timer.Form2.resources
 C:\Users\WU\Documents\Visual Studio 2012\Projects\timer20170306\timer\obj\Debug\timer.Properties.Resources.resources
 C:\Users\WU\Documents\Visual Studio 2012\Projects\timer20170306\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+C:\Users\wu\Desktop\timer\timer\bin\Debug\timer.exe.config
+C:\Users\wu\Desktop\timer\timer\obj\Debug\timer.exe
+C:\Users\wu\Desktop\timer\timer\obj\Debug\timer.pdb
+C:\Users\wu\Desktop\timer\timer\bin\Debug\timer.exe
+C:\Users\wu\Desktop\timer\timer\bin\Debug\timer.pdb
+C:\Users\wu\Desktop\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+C:\Users\wu\Desktop\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\wu\Desktop\timer\timer\obj\Debug\timer.Form2.resources
+C:\Users\wu\Desktop\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\wu\Desktop\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache

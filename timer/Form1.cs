@@ -55,8 +55,17 @@ namespace timer
             this.Opacity = 0.01;
 
             notifyIcon1.ShowBalloonTip(1000, "The timer is running", "You can change the color here!", ToolTipIcon.Info);
-            
-        
+            if (lockstate)
+            {
+                this.Opacity = 0.01;
+                lockToolStripMenuItem.Text = "Lock";
+            }
+            else
+            {
+                this.Opacity = 0;
+                lockToolStripMenuItem.Text = "Unlock";
+            }
+            lockstate = !lockstate;
         }
 
         private void Form1_LocationChanged(object sender, EventArgs e)
